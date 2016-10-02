@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppFd3</string>
+    <string name="btnOk">Ok</string>
+    <string name="btn_somar">Somar</string>
+    <string name="btn_subtrair">Subtrair</string>
+    <string name="mult">Multiplicar</string>
+    <string name="div">Dividir</string>
+    <string name="textoResultado">Resultado</string>
+    <string name="fechar">Fechar</string>
+</resources>
